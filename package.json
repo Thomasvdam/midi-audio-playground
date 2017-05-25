@@ -1,0 +1,22 @@
+{
+  "name": "midi",
+  "version": "1.0.0",
+  "description": "Midi playground",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "midi",
+    "web",
+    "audio"
+  ],
+  "author": "Thomas",
+  "license": "MIT",
+  "devDependencies": {
+    "@npm-wearetriple/js-dev": "^3.1.0",
+    "meister-gulp-webpack-tasks": "^1.0.6",
+    "meister-gulp-browsersync-task": "^1.0.1",
+    "babel-core": "^6.24.1"
+  }
+}
